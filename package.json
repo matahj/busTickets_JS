@@ -1,0 +1,21 @@
+{
+  "name": "bustickets_js",
+  "version": "1.0.0",
+  "description": "Desarrollo de una aplicación para la venta de boletos de autobús utilizando Mongo, Express, React, NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
